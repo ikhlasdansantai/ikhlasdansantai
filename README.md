@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello i'm Ikhsan, I have an interest in Software Development, especially in web developer, i'm currently trying to make a career as a Front End web developer.
+Hello i'm Ikhsan, I have an interest in Software Development, especially in web development, i'm currently trying to make a career as a Front End web developer.
 
 
 ## 🌐 Socials:
