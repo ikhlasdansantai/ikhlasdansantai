@@ -24,6 +24,10 @@ Hello i'm Ikhsan, I have an interest in Software Development, especially in web 
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	
 
+# 🎥 Latest Videos
+- [The Beginning Of The End: WW2 Trailer](https://www.youtube.com/watch?v=tBTMDELzvVA)
+- ![KAMP KONSENTRASI yang paling mengerikan di era perang dunia ke 2](https://www.youtube.com/watch?v=BW9glb4e0lM)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ikhlasdansantai&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ikhlasdansantai&theme=dark&hide_border=false)<br/>
