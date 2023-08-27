@@ -41,8 +41,8 @@ Hello i'm Ikhsan, I have an interest in Software Development, especially in web 
 - Supporting community members in solving technical issues and understanding programming concepts.
 
 🏆 **Achievements and Contributions**
-- Being an HTML-CSS helper due to active contributions in discussions and questions related to HTML-CSS.
 - As a founder, I have played a key role in building and maintaining the active and growing SejarahPerangDunia2 community especially on Discord.
+- Being an HTML-CSS helper due to active contributions in discussions and questions related to HTML-CSS.
 
 🌏 **Latest Projects**
 - [RenzAura](https://ikhlasdansantai.github.io/RenzAura/)
