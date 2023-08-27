@@ -36,7 +36,7 @@ Hello i'm Ikhsan, I have an interest in Software Development, especially in web 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	
 
 🌐 **Community Involvement**
-- founder of the SejarahPerangDunia2 account and responsible for content creation and community initiatives on Instagram.
+- Founder of the SejarahPerangDunia2 account and responsible for content creation and community initiatives on Instagram.
 - Actively contributing to discussions and questions on the WPU Discord server.
 - Supporting community members in solving technical issues and understanding programming concepts.
 
