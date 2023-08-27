@@ -36,15 +36,20 @@ Hello i'm Ikhsan, I have an interest in Software Development, especially in web 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	
 
 🌐 **Community Involvement**
+- founder of the SejarahPerangDunia2 account and responsible for content creation and community initiatives on Instagram.
 - Actively contributing to discussions and questions on the WPU Discord server.
 - Supporting community members in solving technical issues and understanding programming concepts.
 
 🏆 **Achievements and Contributions**
 - Being an HTML-CSS helper due to active contributions in discussions and questions related to HTML-CSS.
+- As a founder, I have played a key role in building and maintaining the active and growing SejarahPerangDunia2 community especially on Discord.
 
 🌏 **Latest Projects**
+- [RenzAura](https://ikhlasdansantai.github.io/RenzAura/)
 - [HangeulIn](https://ikhlasdansantai.github.io/Hangeulin/)
 - [Weeekly Website Fanmade](https://ikhlasdansantai.github.io/weeekly-website-fanmade/)
+- [Discord](https://discord.gg/22k6dBAmnP)
+- [Youtube](https://www.instagram.com/sejarahperangdunia/)
 
 🎥 **Latest Videos**
 - [The Beginning Of The End: WW2 Trailer](https://www.youtube.com/watch?v=tBTMDELzvVA)
