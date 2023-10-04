@@ -48,10 +48,12 @@ Hello i'm Ikhsan, I have an interest in Software Development, especially in web 
 - Being an HTML-CSS helper due to active contributions in discussions and questions related to HTML-CSS.
 
 🌏 **Latest Projects**
+- [Introvert Club](https://introvert-club.vercel.app/)
 - [RenzAura](https://ikhlasdansantai.github.io/RenzAura/)
 - [HangeulIn](https://ikhlasdansantai.github.io/Hangeulin/)
 - [Weeekly Website Fanmade](https://ikhlasdansantai.github.io/weeekly-website-fanmade/)
-- [Discord](https://discord.gg/22k6dBAmnP)
+- [Introvert Club Community Discord](https://discord.gg/a5X4rC98WR )
+- [SPD Discord](https://discord.gg/22k6dBAmnP)
 - [Youtube](https://www.instagram.com/sejarahperangdunia/)
 
 🎥 **Latest Videos**
