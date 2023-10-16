@@ -1,10 +1,8 @@
-
 <div align="center">
-  <img src="https://c4.wallpaperflare.com/wallpaper/653/593/145/yuru-camp-night-view-hd-wallpaper-preview.jpg"  />
+  <img src="https://media.giphy.com/media/gOi2LolUXEW4Z05W7Z/giphy.gif" width="100%" height="100%" />
 </div>
 
-
-###
+<blockquote align="center">Nea Onnim No Sua a, Ohu</blockquote>
 
 <h1 align="center">hey there 👋</h1>
 
