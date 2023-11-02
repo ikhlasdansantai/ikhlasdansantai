@@ -9,6 +9,8 @@
 ### 💫 About Me:
 Hello i'm Ikhsan, I have an interest in Software Development, especially in web development, i'm currently trying to make a career as a Front End web developer.
 
+🌻 Currently learning **NextJS**, Letsgooo baby
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ikhlasdansantai) 
