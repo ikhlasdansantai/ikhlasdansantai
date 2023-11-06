@@ -7,7 +7,7 @@
 <h1 align="center">hey there 👋</h1>
 
 ### 💫 About Me:
-Hello i'm Ikhsan, I have an interest in Software Development, especially in web development, i'm currently trying to make a career as a Front End web developer.
+Hello i'm Ikhsan, I have an interest in Software Development, especially in web development, i'm currently trying to make a career as a Fullstack web developer.
 
 🌻 Currently learning **NextJS**, Letsgooo baby
 
