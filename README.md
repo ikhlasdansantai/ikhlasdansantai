@@ -47,6 +47,9 @@ Hello i'm Ikhsan, I have an interest in Software Development, especially in web 
 - As a founder, I have played a key role in building and maintaining the active and growing SejarahPerangDunia2 community especially on Discord.
 - Being an HTML-CSS helper due to active contributions in discussions and questions related to HTML-CSS.
 
+📖 **Latest blog**
+- [Membuat Active Link Di NextJS](https://medium.com/@initesting5/membuat-active-link-di-nextjs-872ef52a38e2)
+
 🌏 **Latest Projects**
 - [Introvert Club](https://introvert-club.vercel.app/)
 - [RenzAura](https://ikhlasdansantai.github.io/RenzAura/)
