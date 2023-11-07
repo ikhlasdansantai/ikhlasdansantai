@@ -49,6 +49,7 @@ Hello i'm Ikhsan, I have an interest in Software Development, especially in web 
 
 📖 **Latest blog**
 - [Membuat Active Link Di NextJS](https://medium.com/@initesting5/membuat-active-link-di-nextjs-872ef52a38e2)
+- [Cara Elegan Untuk Handle ClassName Condition Di React/Nextjs](https://medium.com/@initesting5/cara-elegan-untuk-handle-classname-condition-di-react-nextjs-4d28e2b1d5d5)
 
 🌏 **Latest Projects**
 - [Introvert Club](https://introvert-club.vercel.app/)
