@@ -9,7 +9,7 @@
 ### 💫 About Me:
 Hello i'm Ikhsan, I have an interest in Software Development, especially in web development, i'm currently trying to make a career as a Fullstack web developer.
 
-🌻 Currently learning **NextJS**, Letsgooo baby
+🌻 V.2 Will Launch Soon YGY, sabar
 
 
 ## 🌐 Socials:
