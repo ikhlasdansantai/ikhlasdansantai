@@ -9,9 +9,6 @@
 ### 💫 About Me:
 Hello i'm Ikhsan, I have an interest in Software Development, especially in web development, i'm currently trying to make a career as a Fullstack web developer.
 
-🌻 V.2 Will Launch Soon YGY, sabar
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ikhlasdansantai) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mochammad-ikhsan-nurzaman) 
@@ -52,6 +49,7 @@ Hello i'm Ikhsan, I have an interest in Software Development, especially in web 
 - [Cara Elegan Untuk Handle ClassName Condition Di React/Nextjs](https://medium.com/@initesting5/cara-elegan-untuk-handle-classname-condition-di-react-nextjs-4d28e2b1d5d5)
 
 🌏 **Latest Projects**
+- [Portfolio 2023](https://ikhlasdansantai.vercel.app/)
 - [Introvert Club](https://introvert-club.vercel.app/)
 - [RenzAura](https://ikhlasdansantai.github.io/RenzAura/)
 - [HangeulIn](https://ikhlasdansantai.github.io/Hangeulin/)
