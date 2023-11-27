@@ -45,6 +45,7 @@ Hello i'm Ikhsan, I have an interest in Software Development, especially in web 
 - Being an HTML-CSS helper due to active contributions in discussions and questions related to HTML-CSS.
 
 📖 **Latest blog**
+- [Share Pengalaman Unik Ketika Menginstall ShadcnUI Di NextJS](https://medium.com/@initesting5/share-pengalaman-unik-ketika-menginstall-shadcnui-di-nextjs-ed3f49bea8e5)
 - [Membuat Active Link Di NextJS](https://medium.com/@initesting5/membuat-active-link-di-nextjs-872ef52a38e2)
 - [Cara Elegan Untuk Handle ClassName Condition Di React/Nextjs](https://medium.com/@initesting5/cara-elegan-untuk-handle-classname-condition-di-react-nextjs-4d28e2b1d5d5)
 
