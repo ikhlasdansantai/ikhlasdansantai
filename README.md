@@ -86,7 +86,7 @@ Hello i'm Ikhsan, I have an interest in Software Development, especially in web 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ikhlasdansantai&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-Currently Learning Prisma 😁
+Currently Learning Prisma 😁👍
 Terimakasih 2023 🚀
 
 ---
