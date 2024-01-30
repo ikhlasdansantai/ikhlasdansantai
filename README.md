@@ -73,7 +73,8 @@ Hello i'm Ikhsan, I have an interest in Software Development, especially in web 
 - [Weeekly Website Fanmade](https://ikhlasdansantai.github.io/weeekly-website-fanmade/)
 - [Introvert Club Community Discord](https://discord.gg/a5X4rC98WR )
 - [SPD Discord](https://discord.gg/22k6dBAmnP)
-- [Youtube](https://www.instagram.com/sejarahperangdunia/)
+- [Youtube](https://www.youtube.com/@TechAndWar)
+- [Instagram](https://www.instagram.com/sejarahperangdunia/)
 
 🎥 **Latest Videos**
 - [The Beginning Of The End: WW2 Trailer](https://www.youtube.com/watch?v=tBTMDELzvVA)
