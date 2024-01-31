@@ -27,6 +27,7 @@ Hello i'm Ikhsan, I have an interest in Software Development, especially in web 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
 
 <!-- 
 ### BackEnd
@@ -92,4 +93,3 @@ Terimakasih 2023 🚀
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ikhlasdansantai&icon=2&color=1)](https://visitcount.itsvg.in)
-
