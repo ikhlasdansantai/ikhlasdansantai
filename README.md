@@ -67,7 +67,7 @@ Hello i'm Ikhsan, I have an interest in Software Development, especially in web 
 - [Cara Elegan Untuk Handle ClassName Condition Di React/Nextjs](https://medium.com/@initesting5/cara-elegan-untuk-handle-classname-condition-di-react-nextjs-4d28e2b1d5d5)
 
 🌏 **Latest Projects**
--[Iksplorasi](https://iksplorasi.vercel.app) 
+- [Iksplorasi](https://iksplorasi.vercel.app) 
 - [Website Sejarahperangdunia](https://sejarahperangdunia.vercel.app)
 - [Portfolio 2023](https://ikhlasdansantai.vercel.app/)
 - [Introvert Club](https://introvert-club.vercel.app/)
