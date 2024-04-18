@@ -93,7 +93,5 @@ Hello, my name is Ikhsan. I have a deep and passionate interest in Software Deve
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ikhlasdansantai&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-Terimakasih 2023 🚀
-
 ---
 [![](https://visitcount.itsvg.in/api?id=ikhlasdansantai&icon=2&color=1)](https://visitcount.itsvg.in)
