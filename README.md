@@ -8,7 +8,7 @@
 
 ### 💫 About Me:
 Hello, my name is Ikhsan. I have a deep and passionate interest in Software Development, with a specific focus on web development. Over the years, I have honed my skills in various web technologies and frameworks. Currently, I am diligently working to further advance my career as a Fullstack web developer, aiming to contribute innovative solutions and bring value to the projects I work on.
-<!-- Hello i'm Ikhsan, I have an interest in Software Development, especially in web development, i'm currently trying to make a career as a Fullstack web developer -->
+<!-- OLD :) Hello i'm Ikhsan, I have an interest in Software Development, especially in web development, i'm currently trying to make a career as a Fullstack web developer -->
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ikhlasdansantai) 
