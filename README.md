@@ -84,6 +84,7 @@ Hello, my name is Ikhsan. I have a deep and passionate interest in Software Deve
 - [Cara Elegan Untuk Handle ClassName Condition Di React/Nextjs](https://medium.com/@initesting5/cara-elegan-untuk-handle-classname-condition-di-react-nextjs-4d28e2b1d5d5)
 
 🌏 **Latest Projects**
+- [Benarrr Finance](https://github.com/ikhlasdansantai/slicing-with-mui)
 - [Jobfinder (mini-CRUD)](https://github.com/ikhlasdansantai/jobfinder-mini-crud)
 - [Iksplorasi](https://iksplorasi.vercel.app) 
 - [Website Sejarahperangdunia](https://sejarahperangdunia.vercel.app)
