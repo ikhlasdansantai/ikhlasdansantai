@@ -104,7 +104,7 @@ laravel otw
 - [Cara Elegan Untuk Handle ClassName Condition Di React/Nextjs](https://medium.com/@initesting5/cara-elegan-untuk-handle-classname-condition-di-react-nextjs-4d28e2b1d5d5)
 
 🌏 **Latest Projects**
-- [Frontend Express](https://frontend-express-demo-preview.vercel.app/)
+- [Frontend Express Demo](https://frontend-express-demo-preview.vercel.app/)
 - [Daffa Portfolio](https://muhammaddaffa-com.vercel.app)
 - [Lizu Portfolio](https://lizu-portfolio.vercel.app)
 - [Benarrr Finance](https://github.com/ikhlasdansantai/slicing-with-mui)
