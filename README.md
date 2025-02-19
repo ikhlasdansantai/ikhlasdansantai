@@ -38,6 +38,7 @@ Hello, my name is Ikhsan. I have a deep and passionate interest in Software Deve
 ![Prisma](https://img.shields.io/badge/Prisma-%23000000.svg?style=for-the-badge&logo=Prisma&logoColor=white) 
 ![Zod](https://img.shields.io/badge/zod-%23000000.svg?style=for-the-badge&logo=zod&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23000000.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23000000.svg?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%23000000.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 
 ### Tools
