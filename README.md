@@ -93,6 +93,7 @@ laravel otw
 - Being an HTML-CSS helper due to active contributions in discussions and questions related to HTML-CSS.
 
 📖 **Latest blog**
+- [SCRIPTING | Help! Where is Santa?](https://medium.com/@initesting5/scripting-help-where-is-santa-8c50ecdca3bb)
 - [Blue Teaming With Powershell](https://medium.com/@initesting5/blue-teaming-powershellf-to-the-rescue-ac43b19bc41e)
 - [Share Pengalaman Unik Ketika Menginstall ShadcnUI Di NextJS](https://medium.com/@initesting5/share-pengalaman-unik-ketika-menginstall-shadcnui-di-nextjs-ed3f49bea8e5)
 - [Membuat Active Link Di NextJS](https://medium.com/@initesting5/membuat-active-link-di-nextjs-872ef52a38e2)
