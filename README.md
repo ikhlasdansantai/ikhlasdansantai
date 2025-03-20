@@ -8,8 +8,12 @@
 
 ### 💫 About Me:
 <div class="badges" style="display: flex; gap: 1rem; align-items: center; margin: 0; padding: 0;">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Spawcy.png" alt="Your Image Badge" />
-  <img src="https://images.credly.com/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" alt="Your Image Badge" style="display: block; aspect-ratio: 1/1; object-fit: cover; width: 90px" />
+  <a href="https://tryhackme.com/p/Spawcy">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Spawcy.png" alt="Your Image Badge" />
+  </a>
+  <a href="https://www.credly.com/badges/6c75ea50-2dbf-4b51-8a3c-eb5ad509be33/public_url">
+    <img src="https://images.credly.com/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" alt="Your Image Badge" style="display: block; aspect-ratio: 1/1; object-fit: cover; width: 90px" />
+  </a>
 </div>
 Hello, my name is Ikhsan. I have a deep and passionate interest in Software Development, with a specific focus on web development. Over the years, I have honed my skills in various web technologies and frameworks. Currently, I am diligently working to further advance my career as a Fullstack developer, aiming to contribute innovative solutions and bring value to the projects I work on.
 <!-- OLD :) Hello i'm Ikhsan, I have an interest in Software Development, especially in web development, i'm currently trying to make a career as a Fullstack web developer -->
