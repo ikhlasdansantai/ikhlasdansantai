@@ -127,6 +127,7 @@ laravel otw
 - [Instagram](https://www.instagram.com/sejarahperangdunia/)
 
 🎥 **Latest Videos**
+- [Vulnerability Capstone ROOM](https://youtu.be/IXqCTu9Cq8c)
 - [The Beginning Of The End: WW2 Trailer](https://www.youtube.com/watch?v=tBTMDELzvVA)
 - [KAMP KONSENTRASI yang paling mengerikan di era perang dunia ke 2](https://www.youtube.com/watch?v=BW9glb4e0lM)
 
