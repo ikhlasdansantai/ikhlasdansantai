@@ -130,6 +130,7 @@ laravel otw
 - [S.A High School](https://frontend-express-demo-preview.vercel.app/project/shuchiin-academy-ctf-room)
 
 🎥 **Latest Videos**
+- [Simulasi Web Hacking - Cookie Tampering Attack](https://youtu.be/l1ybVtIcTRU?si=3p31mcnWO34_Zxs1)
 - [Vulnerability Capstone ROOM](https://youtu.be/IXqCTu9Cq8c)
 - [The Beginning Of The End: WW2 Trailer](https://www.youtube.com/watch?v=tBTMDELzvVA)
 - [KAMP KONSENTRASI yang paling mengerikan di era perang dunia ke 2](https://www.youtube.com/watch?v=BW9glb4e0lM)
