@@ -135,6 +135,12 @@ laravel otw
 - [The Beginning Of The End: WW2 Trailer](https://www.youtube.com/watch?v=tBTMDELzvVA)
 - [KAMP KONSENTRASI yang paling mengerikan di era perang dunia ke 2](https://www.youtube.com/watch?v=BW9glb4e0lM)
 
+🎥 **Youtube Playlist**
+- [Mastering Linux With Overthewire Games](https://www.youtube.com/playlist?list=PLatsGMwjPWNmVWt42xtmmxIMjiNtI5-0C)
+- [ohSINT Room Walkthrough](https://www.youtube.com/playlist?list=PLatsGMwjPWNkMA5JSvBHH9Bpdm-0oh2Zo)
+- [SQL Police](https://www.youtube.com/playlist?list=PLatsGMwjPWNk3Cukgcgye8GK6HbOrVdpq)
+- [Sveltekit Slicing S1](https://www.youtube.com/playlist?list=PLatsGMwjPWNlsirZF3VAk3qChfUktIe45)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ikhlasdansantai&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ikhlasdansantai&theme=dark&hide_border=false)<br/>
