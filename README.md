@@ -1,5 +1,9 @@
-<div align="center">
+<!-- <div align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWFoY2dvYjFuMm4xODZmOHRybDRtcjF4ZjI2NjQwcWVvb3Vmc3F2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hYGAJCl2oNWOncM0RR/giphy.gif" width="100%" height="100%" />
+</div> -->
+
+<div align="center">
+  <img src="https://tenor.com/view/a-space-for-the-unbound-raya-raya-fitri-nirmala-atma-gif-16991156061970173610.gif" width="100%" height="100%" />
 </div>
 
 <blockquote align="center">Nea Onnim No Sua a, Ohu</blockquote>
