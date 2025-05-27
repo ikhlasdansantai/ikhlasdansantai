@@ -140,10 +140,18 @@ laravel otw
 - [KAMP KONSENTRASI yang paling mengerikan di era perang dunia ke 2](https://www.youtube.com/watch?v=BW9glb4e0lM)
 
 🎥 **Youtube Playlist**
-- [Mastering Linux With Overthewire Games](https://www.youtube.com/playlist?list=PLatsGMwjPWNmVWt42xtmmxIMjiNtI5-0C)
-- [ohSINT Room Walkthrough](https://www.youtube.com/playlist?list=PLatsGMwjPWNkMA5JSvBHH9Bpdm-0oh2Zo)
-- [SQL Police](https://www.youtube.com/playlist?list=PLatsGMwjPWNk3Cukgcgye8GK6HbOrVdpq)
-- [Sveltekit Slicing S1](https://www.youtube.com/playlist?list=PLatsGMwjPWNlsirZF3VAk3qChfUktIe45)
+  <a href="https://www.youtube.com/playlist?list=PLatsGMwjPWNmVWt42xtmmxIMjiNtI5-0C">
+    <img src="https://github.com/user-attachments/assets/f06d2d42-cd62-4542-87a8-d1202d4c8fa7" />
+  </a>
+  <a href="https://www.youtube.com/playlist?list=PLatsGMwjPWNkMA5JSvBHH9Bpdm-0oh2Zo">
+    <img src="https://github.com/user-attachments/assets/b93a7ee9-ef10-4f1d-adc4-6aa318371bdb" />
+  </a>
+  <a href="https://www.youtube.com/playlist?list=PLatsGMwjPWNk3Cukgcgye8GK6HbOrVdpq">
+    <img src="https://github.com/user-attachments/assets/444f0867-4618-4b90-8755-a148ad765e62" />
+  </a>
+  <a href="https://www.youtube.com/playlist?list=PLatsGMwjPWNlsirZF3VAk3qChfUktIe45">
+    <img src="https://github.com/user-attachments/assets/628056ae-f393-49c2-b796-7bdc855d8466" />
+  </a>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ikhlasdansantai&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
