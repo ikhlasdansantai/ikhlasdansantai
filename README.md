@@ -6,7 +6,8 @@
   <img src="https://tenor.com/view/a-space-for-the-unbound-raya-raya-fitri-nirmala-atma-gif-16991156061970173610.gif" width="100%" height="100%" />
 </div>
 
-<blockquote align="center">Nea Onnim No Sua a, Ohu</blockquote>
+<blockquote align="center">I use Arch btw</blockquote>
+<!-- <blockquote align="center">Nea Onnim No Sua a, Ohu</blockquote> -->
 
 <h1 align="center">hey there 👋</h1>
 
