@@ -140,6 +140,7 @@ laravel otw
 - [The Beginning Of The End: WW2 Trailer](https://www.youtube.com/watch?v=tBTMDELzvVA)
 - [KAMP KONSENTRASI yang paling mengerikan di era perang dunia ke 2](https://www.youtube.com/watch?v=BW9glb4e0lM)
 
+<!--
 🎥 **Youtube Playlist**
   <a href="https://www.youtube.com/playlist?list=PLatsGMwjPWNmVWt42xtmmxIMjiNtI5-0C">
     <img src="https://github.com/user-attachments/assets/f06d2d42-cd62-4542-87a8-d1202d4c8fa7" />
@@ -153,6 +154,7 @@ laravel otw
   <a href="https://www.youtube.com/playlist?list=PLatsGMwjPWNlsirZF3VAk3qChfUktIe45">
     <img src="https://github.com/user-attachments/assets/628056ae-f393-49c2-b796-7bdc855d8466" />
   </a>
+  -->
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ikhlasdansantai&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
