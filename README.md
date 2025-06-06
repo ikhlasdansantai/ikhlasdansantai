@@ -159,7 +159,7 @@ laravel otw
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ikhlasdansantai&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ikhlasdansantai&theme=dark&hide_border=false)<br/>
-![](https://ikhlasdansantai-readme-status.vercel.app/api/top-langs/?username=ikhlasdansantai&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=css,html)
+![](https://ikhlasdansantai-readme-status.vercel.app/api/top-langs/?username=ikhlasdansantai&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=css,html,mdx)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ikhlasdansantai&theme=radical&no-frame=false&no-bg=false&margin-w=4)
