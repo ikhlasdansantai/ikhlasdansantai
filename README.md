@@ -7,7 +7,7 @@
 </div>
 
 <blockquote align="center">I use Arch btw</blockquote>
-<!-- <blockquote align="center">Nea Onnim No Sua a, Ohu</blockquote> -->
+<!-- <blockquote align="center">Nea Onnim No Sua a, Ohu</blockq uote> -->
 
 <h1 align="center">hey there 👋</h1>
 
