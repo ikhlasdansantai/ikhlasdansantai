@@ -42,6 +42,7 @@ Hello, my name is Ikhsan. I have a deep and passionate interest in Software Deve
 ![jQuery](https://img.shields.io/badge/jquery-%23000000.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![Shadcn](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff&style=for-the-badge)
 ![Nextra](https://img.shields.io/badge/nextra-%23000000.svg?style=for-the-badge&logo=nextra&logoColor=white)
+![sveltekit](https://img.shields.io/badge/sveltekit-%23000000.svg?style=for-the-badge&logo=svelte&logoColor=white)
 
 ### FrontEnd Mobile
 ![React Native](https://img.shields.io/badge/react_native-%23000000.svg?style=for-the-badge&logo=react&logoColor=white)
