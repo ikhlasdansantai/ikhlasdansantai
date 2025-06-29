@@ -136,6 +136,7 @@ laravel otw
 - [S.A High School](https://frontend-express-demo-preview.vercel.app/project/shuchiin-academy-ctf-room)
 
 🎥 **Latest Videos**
+- [Setup Supabase Di 3 Framework JS Cuman 6 Menit Lebih Dikit](https://youtu.be/bMcYnD6ZtX4?si=34-iLZy9zgYz1Dbu)
 - [Simulasi Web Hacking - Cookie Tampering Attack](https://youtu.be/l1ybVtIcTRU?si=3p31mcnWO34_Zxs1)
 - [Vulnerability Capstone ROOM](https://youtu.be/IXqCTu9Cq8c)
 - [The Beginning Of The End: WW2 Trailer](https://www.youtube.com/watch?v=tBTMDELzvVA)
