@@ -158,9 +158,12 @@ laravel otw
   </a>
   -->
 
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ikhlasdansantai&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ikhlasdansantai&theme=dark&hide_border=false)<br/>
+![Codewars](https://github.r2v.ch/codewars?user=ikhlasdansantai&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark&hide_clan=true)<br />
 ![](https://ikhlasdansantai-readme-status.vercel.app/api/top-langs/?username=ikhlasdansantai&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=css,html,mdx)
 
 ## 🏆 GitHub Trophies
