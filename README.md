@@ -3,7 +3,7 @@
 </div> -->
 
 <div align="center">
-  <img src="https://tenor.com/view/a-space-for-the-unbound-raya-raya-fitri-nirmala-atma-gif-16991156061970173610.gif" width="100%" height="100%" />
+  <img src="https://tenor.com/view/a-space-for-the-unbound-raya-raya-fitri-nirmala-atma-gif-16991156061970173610.gif" width="100%" height="100%" style="height: 50vh" />
 </div>
 
 <blockquote align="center">I use Arch btw</blockquote>
