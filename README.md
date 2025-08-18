@@ -107,7 +107,7 @@ laravel otw
 - Being an HTML-CSS helper due to active contributions in discussions and questions related to HTML-CSS.
 
 📖 **Latest blog**
--[Simulating IDOR Vulnerabilities Exploit](https://ikhlasdansantai.medium.com/vulnlab-insecure-direct-object-reference-idor-writeup-f4acfdaf6534)
+- [Simulating IDOR Vulnerabilities Exploit](https://ikhlasdansantai.medium.com/vulnlab-insecure-direct-object-reference-idor-writeup-f4acfdaf6534)
 - [Overwrite Existing File Vulnerabilities](https://ikhlasdansantai.medium.com/overwrite-existing-file-vulnerabilities-tryhackme-faa4056a5f88)
 - [SCRIPTING | Help! Where is Santa?](https://medium.com/@initesting5/scripting-help-where-is-santa-8c50ecdca3bb)
 - [Blue Teaming With Powershell](https://medium.com/@initesting5/blue-teaming-powershellf-to-the-rescue-ac43b19bc41e)
